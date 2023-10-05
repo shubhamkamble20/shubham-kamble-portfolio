@@ -9,6 +9,7 @@ import bonsai from "../../Assets/Projects/bonsai.png";
 import nyresa from "../../Assets/Projects/nyresa.png"
 import snp from "../../Assets/Projects/snp.png"
 import sresume from "../../Assets/Projects/sresume.png"
+import chtamate from "../../Assets/Projects/chtamate.png"
 
 
 
@@ -22,7 +23,7 @@ function Projects() {
         </h1>
         
         <Row style={{ justifyContent: "left", paddingBottom: "10px" }}>
-          <Col md={6} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={sresume}
               
@@ -35,7 +36,7 @@ function Projects() {
             />
           </Col>
 
-          <Col md={6} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={snp}
               
@@ -45,6 +46,19 @@ function Projects() {
               stacks="HTML | CSS | REACTJS"
               ghLink="https://github.com/shubhamkamble20/secure-password-generator"
               demoLink="https://shubhamkamble20.github.io/secure-password-generator/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chtamate}
+              
+              title="Chatmate"
+              description="A website helps you to chat with your friends. Tech: HTML,CSS,React.
+              "
+              stacks="HTML | CSS | REACTJS"
+              ghLink="https://github.com/shubhamkamble20/chatmate"
+              demoLink="https://shubhamkamble20.github.io/chatmate/"
             />
           </Col>
 {/* 

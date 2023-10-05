@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/shubham-kamble-portfolio/static/css/main.be6ac4c3.css",
+    "main.js": "/shubham-kamble-portfolio/static/js/main.4d328495.js",
+    "static/media/jcrew.png": "/shubham-kamble-portfolio/static/media/jcrew.7215c758cd9739701e93.png",
+    "static/media/modesens.png": "/shubham-kamble-portfolio/static/media/modesens.f6e2d289709b8f9f9c5a.png",
+    "static/media/sresume.png": "/shubham-kamble-portfolio/static/media/sresume.4af10596d7b79bf1058e.png",
+    "static/media/nyresa.png": "/shubham-kamble-portfolio/static/media/nyresa.723f9cea18a4ac44ad73.png",
+    "static/media/prof.png": "/shubham-kamble-portfolio/static/media/prof.cd06471d0c4649523d86.png",
+    "static/media/snp.png": "/shubham-kamble-portfolio/static/media/snp.7ae02f5587593bd102a1.png",
+    "static/media/Shubham_Kamble_Resume.pdf": "/shubham-kamble-portfolio/static/media/Shubham_Kamble_Resume.41b977ce69a430b4e38a.pdf",
+    "static/media/api.png": "/shubham-kamble-portfolio/static/media/api.c5618b6df35050c50c2e.png",
+    "static/media/bonsai.png": "/shubham-kamble-portfolio/static/media/bonsai.23cc231a58f1a4bc2f23.png",
+    "static/media/sql.png": "/shubham-kamble-portfolio/static/media/sql.5deda07826ac728058c7.png",
+    "static/media/react.svg": "/shubham-kamble-portfolio/static/media/react.2b6a071759fcdac074f4dcad26eef347.svg",
+    "static/media/node.svg": "/shubham-kamble-portfolio/static/media/node.2392983dc38f1c5a989eef634eceddbe.svg",
+    "static/media/mongoDB.svg": "/shubham-kamble-portfolio/static/media/mongoDB.29a5c5fb4450abb768242f845476e8c8.svg",
+    "static/media/typescript.svg": "/shubham-kamble-portfolio/static/media/typescript.31f8fee8ebb12b8547b26c234bcd839f.svg",
+    "static/media/redux.svg": "/shubham-kamble-portfolio/static/media/redux.0efa117675756b673b15975bbdea83bb.svg",
+    "static/media/javascript.svg": "/shubham-kamble-portfolio/static/media/javascript.e9360603cdd412c8f9acb925313bc3f3.svg",
+    "static/media/css.svg": "/shubham-kamble-portfolio/static/media/css.43b6f4bdbc0f36b9f2dd15c6ebbcea15.svg",
+    "static/media/html.svg": "/shubham-kamble-portfolio/static/media/html.6a342d61e4fe710cf3e5c05b65b0ac87.svg",
+    "static/media/express.svg": "/shubham-kamble-portfolio/static/media/express.8afbbb870c4682c7512d135cb52f30b5.svg",
+    "index.html": "/shubham-kamble-portfolio/index.html",
+    "static/media/nextjs.svg": "/shubham-kamble-portfolio/static/media/nextjs.754e74478e5d0cda47e59b1ba4771d1f.svg",
+    "main.be6ac4c3.css.map": "/shubham-kamble-portfolio/static/css/main.be6ac4c3.css.map",
+    "main.4d328495.js.map": "/shubham-kamble-portfolio/static/js/main.4d328495.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be6ac4c3.css",
+    "static/js/main.4d328495.js"
+  ]
+}
